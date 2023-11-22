@@ -1,4 +1,5 @@
 ### Hi there 👋
+ 🌱 I am two subjects away from receiving my degree in "University Technician in Application Development". In this repository, I will be saving my personal projects and those of the different courses that I complete.
 
 <!--
 **MarchioriRH/MarchioriRH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
